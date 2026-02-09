@@ -8,86 +8,86 @@
 ## Spis treści
 
 ### MATEMATYKA (1-10)
-1. Ekstrema funkcji i gradient, zastosowania w informatyce
-2. Wielomian i szereg Taylora funkcji rzeczywistej
-3. Układy równań liniowych: różne metody rozwiązywania, liczba rozwiązań
-4. Wartości własne macierzy i ich zastosowanie w informatyce
-5. Grafy i ich typy, metody reprezentacji grafów
-6. Relacje binarne, własności i metody reprezentacji
-7. Zasada indukcji matematycznej
-8. Twierdzenie Bayesa
-9. Testowanie hipotez statystycznych
-10. Wyznaczanie przedziałów ufności
+1. [Ekstrema funkcji i gradient, zastosowania w informatyce](#1-ekstrema-funkcji-i-gradient-zastosowania-w-informatyce)
+2. [Wielomian i szereg Taylora funkcji rzeczywistej](#2-wielomian-i-szereg-taylora-funkcji-rzeczywistej)
+3. [Układy równań liniowych: różne metody rozwiązywania, liczba rozwiązań](#3-układy-równań-liniowych-różne-metody-rozwiązywania-liczba-rozwiązań)
+4. [Wartości własne macierzy i ich zastosowanie w informatyce](#4-wartości-własne-macierzy-i-ich-zastosowanie-w-informatyce)
+5. [Grafy i ich typy, metody reprezentacji grafów](#5-grafy-i-ich-typy-metody-reprezentacji-grafów)
+6. [Relacje binarne, własności i metody reprezentacji](#6-relacje-binarne-własności-i-metody-reprezentacji)
+7. [Zasada indukcji matematycznej](#7-zasada-indukcji-matematycznej)
+8. [Twierdzenie Bayesa](#8-twierdzenie-bayesa)
+9. [Testowanie hipotez statystycznych](#9-testowanie-hipotez-statystycznych)
+10. [Wyznaczanie przedziałów ufności](#10-wyznaczanie-przedziałów-ufności)
 
 ### BAZY DANYCH (11-15)
-11. Podstawowe cechy relacyjnych baz danych
-12. Podstawowe elementy i znaczenie diagramów związków encji oraz zasady prawidłowego projektowania schematów bazy danych
-13. Mechanizm współbieżności pracy wielu użytkowników w systemie zarządzania bazami danych
-14. Podstawowe obiekty, konstrukcje i znaczenie języka SQL
-15. Podstawowe zasady optymalizacji zapytań, w tym rodzaje i znaczenie indeksów w bazie danych
+11. [Podstawowe cechy relacyjnych baz danych](#11-podstawowe-cechy-relacyjnych-baz-danych)
+12. [Podstawowe elementy i znaczenie diagramów związków encji oraz zasady prawidłowego projektowania schematów bazy danych](#12-podstawowe-elementy-i-znaczenie-diagramów-związków-encji-oraz-zasady-prawidłowego-projektowania-schematów-bazy-danych)
+13. [Mechanizm współbieżności pracy wielu użytkowników w systemie zarządzania bazami danych](#13-mechanizm-współbieżności-pracy-wielu-użytkowników-w-systemie-zarządzania-bazami-danych)
+14. [Podstawowe obiekty, konstrukcje i znaczenie języka SQL](#14-podstawowe-obiekty-konstrukcje-i-znaczenie-języka-sql)
+15. [Podstawowe zasady optymalizacji zapytań, w tym rodzaje i znaczenie indeksów w bazie danych](#15-podstawowe-zasady-optymalizacji-zapytań-w-tym-rodzaje-i-znaczenie-indeksów-w-bazie-danych)
 
 ### TECHNIKI I ARCHITEKTURA KOMPUTERÓW (16-20)
-16. Model architekturalny komputera wg. von Neumanna a model obliczeniowy komputera na podstawie maszyny Turinga i ich rola w informatyce
-17. Logika boolowska i jej zastosowania w warstwie sprzętowej komputerów
-18. Zapis binarny liczb całkowitych, zapis zmiennoprzecinkowy liczb rzeczywistych, arytmetyka komputerowa
-19. Miary wydajności procesorów, pamięci i systemów obliczeniowych
-20. Podstawowe elementy i znaczenie systemów wbudowanych
+16. [Model architekturalny komputera wg. von Neumanna a model obliczeniowy komputera na podstawie maszyny Turinga i ich rola w informatyce](#16-model-architekturalny-komputera-wg-von-neumanna-a-model-obliczeniowy-komputera-na-podstawie-maszyny-turinga-i-ich-rola-w-informatyce)
+17. [Logika boolowska i jej zastosowania w warstwie sprzętowej komputerów](#17-logika-boolowska-i-jej-zastosowania-w-warstwie-sprzętowej-komputerów)
+18. [Zapis binarny liczb całkowitych, zapis zmiennoprzecinkowy liczb rzeczywistych, arytmetyka komputerowa](#18-zapis-binarny-liczb-całkowitych-zapis-zmiennoprzecinkowy-liczb-rzeczywistych-arytmetyka-komputerowa)
+19. [Miary wydajności procesorów, pamięci i systemów obliczeniowych](#19-miary-wydajności-procesorów-pamięci-i-systemów-obliczeniowych)
+20. [Podstawowe elementy i znaczenie systemów wbudowanych](#20-podstawowe-elementy-i-znaczenie-systemów-wbudowanych)
 
 ### SYSTEMY OPERACYJNE (21-25)
-21. Rola i zadania systemu operacyjnego, podstawowe elementy i rodzaje systemów operacyjnych
-22. Pojęcie procesu i wątku, stany procesu/wątku, przełączanie kontekstu, algorytmy szeregowania procesów
-23. Problem wzajemnego wykluczania i jego rozwiązania, synchronizacja procesów i wątków, problem zakleszczenia
-24. Zarządzanie pamięcią operacyjną, pojęcie pamięci wirtualnej, segmentacja i stronicowanie pamięci
-25. System plików, organizacja i implementacja, metody dostępu do plików
+21. [Rola i zadania systemu operacyjnego, podstawowe elementy i rodzaje systemów operacyjnych](#21-rola-i-zadania-systemu-operacyjnego-podstawowe-elementy-i-rodzaje-systemów-operacyjnych)
+22. [Pojęcie procesu i wątku, stany procesu/wątku, przełączanie kontekstu, algorytmy szeregowania procesów](#22-pojęcie-procesu-i-wątku-stany-procesuwątku-przełączanie-kontekstu-algorytmy-szeregowania-procesów)
+23. [Problem wzajemnego wykluczania i jego rozwiązania, synchronizacja procesów i wątków, problem zakleszczenia](#23-problem-wzajemnego-wykluczania-i-jego-rozwiązania-synchronizacja-procesów-i-wątków-problem-zakleszczenia)
+24. [Zarządzanie pamięcią operacyjną, pojęcie pamięci wirtualnej, segmentacja i stronicowanie pamięci](#24-zarządzanie-pamięcią-operacyjną-pojęcie-pamięci-wirtualnej-segmentacja-i-stronicowanie-pamięci)
+25. [System plików, organizacja i implementacja, metody dostępu do plików](#25-system-plików-organizacja-i-implementacja-metody-dostępu-do-plików)
 
 ### SIECI KOMPUTEROWE (26-30)
-26. Model warstwowy ISO/OSI i TCP/IP, protokoły i ich rola w komunikacji sieciowej
-27. Adresacja w sieciach komputerowych: adresy fizyczne, logiczne i porty, rola i zadania protokołów ARP, DNS, DHCP
-28. Podstawowe urządzenia sieciowe i ich rola w przesyle danych: koncentrator, przełącznik, router
-29. Rola i zadania wybranych protokołów warstwy aplikacji: HTTP, FTP, SMTP, DNS
-30. Podstawowe zagadnienia bezpieczeństwa sieci komputerowych: zagrożenia, metody ochrony, kryptografia
+26. [Model warstwowy ISO/OSI i TCP/IP, protokoły i ich rola w komunikacji sieciowej](#26-model-warstwowy-isoosi-i-tcpip-protokoły-i-ich-rola-w-komunikacji-sieciowej)
+27. [Adresacja w sieciach komputerowych: adresy fizyczne, logiczne i porty, rola i zadania protokołów ARP, DNS, DHCP](#27-adresacja-w-sieciach-komputerowych-adresy-fizyczne-logiczne-i-porty-rola-i-zadania-protokołów-arp-dns-dhcp)
+28. [Podstawowe urządzenia sieciowe i ich rola w przesyle danych: koncentrator, przełącznik, router](#28-podstawowe-urządzenia-sieciowe-i-ich-rola-w-przesyle-danych-koncentrator-przełącznik-router)
+29. [Rola i zadania wybranych protokołów warstwy aplikacji: HTTP, FTP, SMTP, DNS](#29-rola-i-zadania-wybranych-protokołów-warstwy-aplikacji-http-ftp-smtp-dns)
+30. [Podstawowe zagadnienia bezpieczeństwa sieci komputerowych: zagrożenia, metody ochrony, kryptografia](#30-podstawowe-zagadnienia-bezpieczeństwa-sieci-komputerowych-zagrożenia-metody-ochrony-kryptografia)
 
 ### ALGORYTMY I PROGRAMOWANIE (31-39)
-31. Cykl życia oprogramowania i jego modele (modele wytwarzania oprogramowania)
-32. Analiza i projektowanie algorytmów, złożoność obliczeniowa, notacja asymptotyczna
-33. Paradygmaty programowania: imperatywny, obiektowy, funkcyjny, deklaratywny
-34. Programowanie obiektowe: klasy, obiekty, dziedziczenie, polimorfizm
-35. Podstawowe struktury danych: tablica, lista, stos, kolejka, drzewo, graf
-36. Algorytmy sortowania: bąbelkowe, przez wstawianie, przez wybór, szybkie, przez scalanie
-37. Algorytmy wyszukiwania: liniowe, binarne
-38. Algorytmy grafowe: przeszukiwanie wszerz i w głąb, algorytm Dijkstry, algorytmy Kruskala i Prima
-39. Klasy złożoności P i NP, problemy NP-zupełne
+31. [Cykl życia oprogramowania i jego modele (modele wytwarzania oprogramowania)](#31-cykl-życia-oprogramowania-i-jego-modele-modele-wytwarzania-oprogramowania)
+32. [Analiza i projektowanie algorytmów, złożoność obliczeniowa, notacja asymptotyczna](#32-analiza-i-projektowanie-algorytmów-złożoność-obliczeniowa-notacja-asymptotyczna)
+33. [Paradygmaty programowania: imperatywny, obiektowy, funkcyjny, deklaratywny](#33-paradygmaty-programowania-imperatywny-obiektowy-funkcyjny-deklaratywny)
+34. [Programowanie obiektowe: klasy, obiekty, dziedziczenie, polimorfizm](#34-programowanie-obiektowe-klasy-obiekty-dziedziczenie-polimorfizm)
+35. [Podstawowe struktury danych: tablica, lista, stos, kolejka, drzewo, graf](#35-podstawowe-struktury-danych-tablica-lista-stos-kolejka-drzewo-graf)
+36. [Algorytmy sortowania: bąbelkowe, przez wstawianie, przez wybór, szybkie, przez scalanie](#36-algorytmy-sortowania-bąbelkowe-przez-wstawianie-przez-wybór-szybkie-przez-scalanie)
+37. [Algorytmy wyszukiwania: liniowe, binarne](#37-algorytmy-wyszukiwania-liniowe-binarne)
+38. [Algorytmy grafowe: przeszukiwanie wszerz i w głąb, algorytm Dijkstry, algorytmy Kruskala i Prima](#38-algorytmy-grafowe-przeszukiwanie-wszerz-i-w-głąb-algorytm-dijkstry-algorytmy-kruskala-i-prima)
+39. [Klasy złożoności P i NP, problemy NP-zupełne](#39-klasy-złożoności-p-i-np-problemy-np-zupełne)
 
 ### GRAFIKA I INTERFEJSY (40-41)
-40. Grafika rastrowa i wektorowa, modele barw
-41. Interfejsy użytkownika, interakcja człowiek-komputer, podstawowe zasady projektowania interfejsów
+40. [Grafika rastrowa i wektorowa, modele barw](#40-grafika-rastrowa-i-wektorowa-modele-barw)
+41. [Interfejsy użytkownika, interakcja człowiek-komputer, podstawowe zasady projektowania interfejsów](#41-interfejsy-użytkownika-interakcja-człowiek-komputer-podstawowe-zasady-projektowania-interfejsów)
 
 ### INŻYNIERIA OPROGRAMOWANIA (42-48)
-42. Inżynieria wymagań: proces, wymagania funkcjonalne i niefunkcjonalne
-43. Wzorce projektowe: kreacyjne, strukturalne i behawioralne (pojęcia i przykłady)
-44. Testowanie oprogramowania: poziomy testów, techniki czarno- i białoskrzynkowe
-45. Systemy kontroli wersji, Git, GitHub
-46. Konteneryzacja, Docker
-47. Metodyki zwinne (Agile), Scrum, Kanban
-48. Ciągła integracja i ciągłe dostarczanie (CI/CD), Jenkins, GitHub Actions
+42. [Inżynieria wymagań: proces, wymagania funkcjonalne i niefunkcjonalne](#42-inżynieria-wymagań-proces-wymagania-funkcjonalne-i-niefunkcjonalne)
+43. [Wzorce projektowe: kreacyjne, strukturalne i behawioralne (pojęcia i przykłady)](#43-wzorce-projektowe-kreacyjne-strukturalne-i-behawioralne-pojęcia-i-przykłady)
+44. [Testowanie oprogramowania: poziomy testów, techniki czarno- i białoskrzynkowe](#44-testowanie-oprogramowania-poziomy-testów-techniki-czarno--i-białoskrzynkowe)
+45. [Systemy kontroli wersji, Git, GitHub](#45-systemy-kontroli-wersji-git-github)
+46. [Konteneryzacja, Docker](#46-konteneryzacja-docker)
+47. [Metodyki zwinne (Agile), Scrum, Kanban](#47-metodyki-zwinne-agile-scrum-kanban)
+48. [Ciągła integracja i ciągłe dostarczanie (CI/CD), Jenkins, GitHub Actions](#48-ciągła-integracja-i-ciągłe-dostarczanie-cicd-jenkins-github-actions)
 
 ### INTERNET I BEZPIECZEŃSTWO (49-52)
-49. Architektura i usługi sieci Internet
-50. Podstawowe pojęcia z zakresu bezpieczeństwa IT: zagrożenie, podatność, ryzyko, polityka bezpieczeństwa
-51. Kryptografia symetryczna i asymetryczna, klucz publiczny i prywatny, podpis cyfrowy
-52. Złośliwe oprogramowanie i ataki sieciowe
+49. [Architektura i usługi sieci Internet](#49-architektura-i-usługi-sieci-internet)
+50. [Podstawowe pojęcia z zakresu bezpieczeństwa IT: zagrożenie, podatność, ryzyko, polityka bezpieczeństwa](#50-podstawowe-pojęcia-z-zakresu-bezpieczeństwa-it-zagrożenie-podatność-ryzyko-polityka-bezpieczeństwa)
+51. [Kryptografia symetryczna i asymetryczna, klucz publiczny i prywatny, podpis cyfrowy](#51-kryptografia-symetryczna-i-asymetryczna-klucz-publiczny-i-prywatny-podpis-cyfrowy)
+52. [Złośliwe oprogramowanie i ataki sieciowe](#52-złośliwe-oprogramowanie-i-ataki-sieciowe)
 
 ### ETYKA I PRAWO (53-54)
-53. Etyka w informatyce, kodeksy etyczne
-54. Prawne aspekty oprogramowania: prawa autorskie, patenty, licencje
+53. [Etyka w informatyce, kodeksy etyczne](#53-etyka-w-informatyce-kodeksy-etyczne)
+54. [Prawne aspekty oprogramowania: prawa autorskie, patenty, licencje](#54-prawne-aspekty-oprogramowania-prawa-autorskie-patenty-licencje)
 
 ### TECHNOLOGIE ZAAWANSOWANE (55-60)
-55. Chmura obliczeniowa: modele usług (IaaS, PaaS, SaaS) i wdrożenia (prywatna, publiczna, hybrydowa)
-56. Uczenie maszynowe: uczenie nadzorowane, nienadzorowane i ze wzmocnieniem
-57. Sztuczne sieci neuronowe, głębokie uczenie (deep learning)
-58. Przetwarzanie języka naturalnego (NLP)
-59. Systemy rozproszone, Big Data
-60. Internet Rzeczy (Internet of Things - IoT)
+55. [Chmura obliczeniowa: modele usług (IaaS, PaaS, SaaS) i wdrożenia (prywatna, publiczna, hybrydowa)](#55-chmura-obliczeniowa-modele-usług-iaas-paas-saas-i-wdrożenia-prywatna-publiczna-hybrydowa)
+56. [Uczenie maszynowe: uczenie nadzorowane, nienadzorowane i ze wzmocnieniem](#56-uczenie-maszynowe-uczenie-nadzorowane-nienadzorowane-i-ze-wzmocnieniem)
+57. [Sztuczne sieci neuronowe, głębokie uczenie (deep learning)](#57-sztuczne-sieci-neuronowe-głębokie-uczenie-deep-learning)
+58. [Przetwarzanie języka naturalnego (NLP)](#58-przetwarzanie-języka-naturalnego-nlp)
+59. [Systemy rozproszone, Big Data](#59-systemy-rozproszone-big-data)
+60. [Internet Rzeczy (Internet of Things - IoT)](#60-internet-rzeczy-internet-of-things---iot)
 
 ---
 
